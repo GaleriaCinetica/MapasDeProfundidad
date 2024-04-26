@@ -1,7 +1,7 @@
 # Tiling ZoeDepth outputs for higher resolution
 v3 has a more reliable upload system for larger files. Can take multiple files at once:
 
-https://colab.research.google.com/drive/1Wi-1Ji_fhcoGpK-drT4dVrl5AjfVUQ5M
+https://colab.research.google.com/drive/1nf20kos_ZXLk72oQRgjlBr3PyUivm1he
 
 v2 has a GUI and STL generation:
 
